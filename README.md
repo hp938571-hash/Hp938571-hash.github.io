@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Harsh Kumar | Accounts & Excel Support</title>
+
+<style>
+
+*{
+box-sizing:border-box;
+}
+
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f5f7fa;
+color:#172033;
+line-height:1.6;
+}
+
+header{
+background:#102a43;
+color:white;
+text-align:center;
+padding:65px 20px;
+}
+
+header h1{
+font-size:40px;
+margin:0 0 10px;
+}
+
+header p{
+font-size:18px;
+margin:8px;
+}
+
+.btn{
+display:inline-block;
+margin-top:20px;
+padding:13px 24px;
+background:white;
+color:#102a43;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+}
+
+section{
+max-width:1000px;
+margin:auto;
+padding:50px 20px;
+}
+
+h2{
+text-align:center;
+color:#102a43;
+margin-bottom:30px;
+}
+
+.about{
+max-width:750px;
+margin:auto;
+text-align:center;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+gap:20px;
+}
+
+.card{
+background:white;
+padding:25px;
+border-radius:12px;
+box-shadow:0 4px 15px rgba(0,0,0,0.10);
+}
+
+.card h3{
+color:#102a43;
+}
+
+.contact{
+max-width:none;
+background:#102a43;
+color:white;
+text-align:center;
+}
+
+.contact h2{
+color:white;
+}
+
+.contact .btn{
+margin:10px;
+}
+
+footer{
+background:#0b1f33;
+color:white;
+text-align:center;
+padding:18px;
+}
+
+a{
+color:inherit;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>Harsh Kumar</h1>
+
+<p>Accounts & Excel Support</p>
+
+<p>
+SAP FICO End User | Accounts Payable | Excel Reporting
+</p>
+
+<a class="btn" href="#contact">
+Contact Me
+</a>
+
+</header>
+
+
+<section>
+
+<h2>About Me</h2>
+
+<div class="about">
+
+<p>
+I am a B.Com graduate with practical experience in accounting
+and Accounts Payable operations.
+</p>
+
+<p>
+I have experience with SAP FICO, Tally, Excel and day-to-day
+accounting work including vendor management, invoice processing,
+payment tracking and reconciliation.
+</p>
+
+<p>
+I provide support for vendor management, payment tracking,
+reconciliation and professional Excel reporting.
+</p>
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>My Services</h2>
+
+<div class="grid">
+
+
+<div class="card">
+
+<h3>Accounts Payable</h3>
+
+<ul>
+
+<li>Vendor invoice processing</li>
+<li>Payment tracking</li>
+<li>Payment follow-up</li>
+<li>Vendor outstanding</li>
+
+</ul>
+
+</div>
+
+
+<div class="card">
+
+<h3>Excel Reporting</h3>
+
+<ul>
+
+<li>Vendor reports</li>
+<li>Outstanding reports</li>
+<li>Payment trackers</li>
+<li>Pivot & XLOOKUP reports</li>
+
+</ul>
+
+</div>
+
+
+<div class="card">
+
+<h3>Accounting Support</h3>
+
+<ul>
+
+<li>Purchase & sales data</li>
+<li>Invoice records</li>
+<li>Tally data entry</li>
+<li>Basic accounting reports</li>
+
+</ul>
+
+</div>
+
+
+<div class="card">
+
+<h3>Vendor Management</h3>
+
+<ul>
+
+<li>Vendor reconciliation</li>
+<li>Open item tracking</li>
+<li>Payment status</li>
+<li>Vendor query support</li>
+
+</ul>
+
+</div>
+
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>My Skills</h2>
+
+<div class="grid">
+
+
+<div class="card">
+
+<h3>SAP FICO</h3>
+
+<p>
+End-user experience with Accounts Payable,
+vendor transactions and payment-related processes.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>MS Excel</h3>
+
+<p>
+Pivot Tables, XLOOKUP, reporting,
+data handling and professional Excel reports.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Tally</h3>
+
+<p>
+Accounting and data-entry support,
+purchase, sales and basic accounting work.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Accounts</h3>
+
+<p>
+Vendor management, invoice processing,
+payment tracking and reconciliation.
+</p>
+
+</div>
+
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Why Work With Me?</h2>
+
+<div class="about">
+
+<p>✓ Accurate data handling</p>
+
+<p>✓ Professional Excel reports</p>
+
+<p>✓ Accounts Payable experience</p>
+
+<p>✓ Reliable communication</p>
+
+<p>✓ Part-time / remote support</p>
+
+</div>
+
+</section>
+
+
+<section class="contact" id="contact">
+
+<h2>Let's Work Together</h2>
+
+<p>
+Need help with Accounts or Excel work?
+</p>
+
+<p>
+Contact me for your requirement.
+</p>
+
+
+<p>
+
+<a
+class="btn"
+href="https://wa.me/916396451537"
+target="_blank">
+Contact on WhatsApp
+</a>
+
+</p>
+
+
+<p>
+
+<b>Email:</b>
+
+<a href="mailto:hp938571@gmail.com">
+hp938571@gmail.com
+</a>
+
+</p>
+
+</section>
+
+
+<footer>
+
+© 2026 Harsh Kumar | Accounts & Excel Support
+
+</footer>
+
+</body>
+</html>
